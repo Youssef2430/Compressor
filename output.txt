@@ -1,0 +1,58 @@
+Enter command > T tests.txt
+
+Encoding genes.txt genes.huf
+13608
+4803
+
+Decoding genes.huf genesRecover.txt
+4803
+13608
+
+Encoding abcefString.txt abcefString.huf
+5750
+2749
+
+Decoding abcefString.huf abcefStringRecover.txt
+2749
+5750
+
+Encoding greeneggsandham.txt greeneggsandham.huf
+43164
+130672
+
+Decoding greeneggsandham.huf greeneggsandhamRecover.txt
+130672
+43164
+
+Encoding midsummer.txt midsummer.huf
+102793
+479015
+
+Decoding midsummer.huf midsummerRecover.txt
+479015
+102793
+
+Encoding don.jpg don.huf
+19405
+299295
+
+Decoding don.huf donRecover.jpg
+299295
+29299
+
+Encoding luciaPeaceAge5.pgm luciaPeaceAge5.huf
+667714
+1017672
+
+Decoding luciaPeaceAge5.huf luciaPeaceAge5Recovered.pgm
+1017672
+667714
+Test file was completed.
+
+Command Formats:
+E <inputfile> <outputfile>
+D <inputfile> <outputfile>
+T <testfile_with_commands>
+or type Q for quiting
+
+Enter command > 
